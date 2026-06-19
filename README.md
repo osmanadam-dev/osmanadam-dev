@@ -39,7 +39,7 @@ I hold a **Bac Professionnel in Web Development** and I'm currently building tow
 | | |
 |---|---|
 | **Languages (spoken)** | French (intermediate) · English (intermediate) · Arabic (fluent) |
-| **Languages (code)** | JavaScript · HTML/CSS | PHP · SQL · Python |
+| **Languages (code)** | HTML / CSS / Javascript / PHP / SQL |
 | **Interests** | Event-driven architecture · AI integration · Developer content creation |
 
 <br>
