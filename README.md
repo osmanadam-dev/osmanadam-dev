@@ -1,68 +1,93 @@
-<div align="center">
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 # Osman Adam
 
-**Junior Web Developer** · Pau, France
+### Junior Web Developer based in Pau, France 🇫🇷 | Open to Apprenticeship / Internship / Junior Opportunities
 
-*Commerce → Electrical → Delivery → Code*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmanadam-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karpol881@hotmail.com)
+[![Links](https://img.shields.io/badge/Portfolio%20%2F%20Links-000000?style=flat&logo=linktree&logoColor=white)](https://lnk.bio/osmanadam-dev)
+
+![Totals Hits](https://komarev.com/ghpvc/?username=osmanadam-dev&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
-<br>
+<hr>
 
-## About
+## 👋 About Me
 
-I came to web development through a few different doors before this one — sales, electrical work, and gig delivery driving across Pau (still active on Uber and Deliveroo while I make the move into tech full-time).
+I'm a junior web developer based in **Pau, France**, currently looking for an **apprenticeship, internship, or junior developer role**. I hold a *Bac Professionnel Développeur Web* (2018), and before moving into tech I worked across delivery driving, electrical work, and commerce — experience that's given me a strong work ethic and an ability to adapt quickly to new environments.
 
-Each of those taught me something I now use every day:
+I'm multilingual — **French, English, and Arabic** — and I bring a multicultural perspective shaped by experience across **Sudan and France**.
 
-- **Commerce** → reading people, communicating clearly, working under pressure
-- **Electrical work** → a system either works or it doesn't; precision matters
-- **Delivery driving** → optimizing routes and decisions in real time, every day
+- 🌍 Currently building a **multilingual e-book platform** (Arabic / English / French) with dedicated pages by book category.
+- 🧠 Focused on **JavaScript, event-driven architecture, and AI integration** in web apps.
+- 🎥 I create **developer-focused content**, sharing what I learn as I grow.
+- 🏍️ Outside of code, I'm into **petrol-powered scooters/cyclomoteurs**.
+- 💬 Ask me about **web development, AI tools, or my journey into tech**.
 
-I hold a **Bac Professionnel in Web Development** and I'm currently building toward a junior role, internship, or apprenticeship in tech.
+<hr>
 
-<br>
+## 🚀 Tools I Use
 
-## Currently
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-- 🔭 Building a multilingual e-book platform (Arabic · English · French)
-- 🌱 Learning event-driven architecture and AI integration
-- 🎯 Actively seeking an apprenticeship / internship / junior developer role
-- 🚗 Still driving for Uber & Deliveroo during the transition
-- 🏍️ Off the clock: petrol-powered motorcycles and scooters
+```js
+// About me, organized
 
-<br>
+const osman = {
+  role: "Junior Web Developer",
+  location: "Pau, France",
+  languagesSpoken: ["French", "English", "Arabic"],
+  stack: {
+    core: ["JavaScript", "HTML5", "CSS3", "Node.js"],
+    interests: ["Event-driven architecture", "AI integration"],
+    tools: ["Git", "VSCode", "PowerShell", "Figma"],
+  },
+  currentProject: "Multilingual e-book platform (AR / EN / FR)",
+  status: "Open to apprenticeship, internship, or junior roles",
+};
+```
 
-## Skills
-
-| | |
-|---|---|
-| **Languages (spoken)** | French (intermediate) · English (intermediate) · Arabic (fluent) |
-| **Languages (code)** | HTML / CSS / Javascript / PHP / SQL |
-| **Interests** | Event-driven architecture · AI integration · Developer content creation |
-
-<br>
-
-## A note, in three languages
-
-> I'm not leaving my past behind — I'm bringing it with me.
->
-> *Je ne laisse pas mon passé derrière moi — je l'emmène avec moi.*
->
-> أنا لا أترك ماضيّ خلفي، بل أحمله معي.
-
-<br>
-
-## Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmanadam-dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](karpol881@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lnk.bio/osmanadam-dev)
-
-<br>
+<hr>
 
 <div align="center">
-<sub>Open to apprenticeships, internships, and junior roles — remote, hybrid, or on-site in France/EU.</sub>
+<a href="https://github.com/osmanadam-dev">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+
+</details>
+
 </div>
 
+<hr>
+
+<div align="center">
+
+**Always learning, always building.** Let's connect if you're hiring or collaborating on web projects!
+
+</div>
