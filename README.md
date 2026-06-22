@@ -1,7 +1,6 @@
 <div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Hello Coders" width="20%"/> <br>
+<img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 # Osman Adam
 
@@ -88,6 +87,7 @@ const osman = {
 
 <div align="center">
 
-**Always learning, always building.** Let's connect if you're hiring or collaborating on web projects!
+**Always learning, always building.** Let's connect if you're hiring or collaborating on web projects! <br>
+<img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Thinking%20Face.png?raw=true" alt="Hello Coders" width="20%"/>
 
 </div>
