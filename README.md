@@ -1,24 +1,31 @@
 <div align="center" width="50">
-<img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Hello Coders" width="20%"/> <br>
-<img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+  
+  <img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Waving%20Hand%20Medium-Light%20Skin%20Tone.png? raw=true"  alt="Hi" width="9%"/> 
+  <br>
+  <img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+  
+  <br>
 
-# Osman Adam
+  # Osman Adam
 
-### Junior Web Developer based in Pau, France 🇫🇷 | Open to Apprenticeship / Internship / Junior Opportunities
+  ### Junior Web Developer based in Pau, France 🇫🇷 | Open to Apprenticeship / Internship / Junior Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmanadam-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karpol881@hotmail.com)
-[![Links](https://img.shields.io/badge/Portfolio%20%2F%20Links-000000?style=flat&logo=linktree&logoColor=white)](https://lnk.bio/osmanadam-dev)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmanadam-dev)
+   [![x](https://img.shields.io/badge/X-D14836?style=flat&logo=X&logoColor=white)](https://x.com/Os_v90)
+   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karpol881@hotmail.com)
+   [![Links](https://img.shields.io/badge/Portfolio%20%2F%20Links-000000?style=flat&logo=linktree&logoColor=white)](https://lnk.bio/osmanadam-dev)
 
-![Totals Hits](https://komarev.com/ghpvc/?username=osmanadam-dev&style=flat&color=orange&label=PROFILE+VIEWS)
+   ![Totals Hits](https://komarev.com/ghpvc/?username=osmanadam-dev&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
-<hr>
+ <hr>
 
-## 👋 About Me
+  ## 👋 About Me
 
-I'm a junior web developer based in **Pau, France**, currently looking for an **apprenticeship, internship, or junior developer role**. I hold a *Bac Professionnel Développeur Web* (2018), and before moving into tech I worked across delivery driving, electrical work, and commerce — experience that's given me a strong work ethic and an ability to adapt quickly to new environments.
+ <p>
+  I'm a junior web developer based in **Pau, France**, currently looking for an **apprenticeship, internship, or junior developer role**. I hold a *Bac   Professionnel Développeur Web* (2018), and before moving into tech I worked across delivery driving, electrical work, and commerce — experience that's given me a strong work ethic and an ability to adapt quickly to new environments.
+ </p>
 
 I'm multilingual — **French, English, and Arabic** — and I bring a multicultural perspective shaped by experience across **Sudan and France**.
 
@@ -68,17 +75,16 @@ const osman = {
 <div align="center">
 <a href="https://github.com/osmanadam-dev">
 
-<img src="https://raw.githubusercontent.com/osmanadam-dev/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/osmanadam-dev/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/osmanadam-dev/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmanadam-dev&theme=prussian" width="90%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmanadam-dev&theme=prussian" width="40%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osmanadam-dev&theme=prussian" width="40%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
-
-<img align="center" src="https://raw.githubusercontent.com/osmanadam-dev/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osmanadam-dev&theme=prussian" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osmanadam-dev&theme=prussian&utcOffset=8" width="32.5%">
 </details>
 
 </div>
@@ -88,6 +94,6 @@ const osman = {
 <div align="center">
 
 **Always learning, always building.** Let's connect if you're hiring or collaborating on web projects! <br>
-<img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Thinking%20Face.png?raw=true" alt="Hello Coders" width="20%"/>
+<img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Thinking%20Face.png?raw=true" alt="Hello Coders" width="14%"/>
 
 </div>
