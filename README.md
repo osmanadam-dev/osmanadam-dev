@@ -1,7 +1,5 @@
 <div align="center" width="50">
   
-  <img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Waving%20Hand%20Medium-Light%20Skin%20Tone.png? raw=true"  alt="Hi" width="9%"/> 
-  <br>
   <img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
   
   <br>
