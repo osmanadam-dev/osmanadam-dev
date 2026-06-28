@@ -9,9 +9,9 @@
   ### Junior Web Developer based in Pau, France 🇫🇷 | Open to Apprenticeship / Internship / Junior Opportunities
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmanadam-dev)
-   [![x](https://img.shields.io/badge/X-D14836?style=flat&logo=X&logoColor=white)](https://x.com/Os_v90)
+   [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/osmanadam-dev)
    [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karpol881@hotmail.com)
-   [![Links](https://img.shields.io/badge/Portfolio%20%2F%20Links-000000?style=flat&logo=linktree&logoColor=white)](https://lnk.bio/osmanadam-dev)
+   [![Links](https://img.shields.io/badge/Portfolio%20%2F%20Links-339933?style=flat&logo=linktree&logoColor=white)](https://lnk.bio/osmanadam-dev)
 
    ![Totals Hits](https://komarev.com/ghpvc/?username=osmanadam-dev&style=flat&color=orange&label=PROFILE+VIEWS)
 
