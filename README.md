@@ -4,7 +4,7 @@
   
   <br>
 
-  # Osman Adam
+  # Hi From Osman 
 
   ### Junior Web Developer based in Pau, France 🇫🇷 | Open to Apprenticeship / Internship / Junior Opportunities
 
