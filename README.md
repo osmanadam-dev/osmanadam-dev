@@ -22,16 +22,16 @@
   ## 👋 About Me
 
  <p>
-  I'm a junior web developer based in **Pau, France**, currently looking for an **apprenticeship, internship, or junior developer role**. I hold a *Bac   Professionnel Développeur Web* (2018), and before moving into tech I worked across delivery driving, electrical work, and commerce — experience that's given me a strong work ethic and an ability to adapt quickly to new environments.
+  I'm a junior web developer based in Pau, France, currently looking for an apprenticeship, internship, or junior developer role. I hold a  Développeur Web diploma (2018), and before moving into tech I worked across delivery driving, electrical work, and commerce — experience that's given me a strong work ethic and an ability to adapt quickly to new environments.
  </p>
 
-I'm multilingual — **French, English, and Arabic** — and I bring a multicultural perspective shaped by experience across **Sudan and France**.
+I'm multilingual — French, English, and Arabic — and I bring a multicultural perspective shaped by experience across Sudan and France.
 
-- 🌍 Currently building a **multilingual e-book platform** (Arabic / English / French) with dedicated pages by book category.
-- 🧠 Focused on **JavaScript, event-driven architecture, and AI integration** in web apps.
-- 🎥 I create **developer-focused content**, sharing what I learn as I grow.
-- 🏍️ Outside of code, I'm into **petrol-powered scooters/cyclomoteurs**.
-- 💬 Ask me about **web development, AI tools, or my journey into tech**.
+- 🌍 Currently building a multilingual e-book platform (Arabic / English / French) with dedicated pages by book category.
+- 🧠 Focused on JavaScript, event-driven architecture, and AI integration in web apps.
+- 🎥 I create developer-focused content**, sharing what I learn as I grow.
+- 🏍️ Outside of code, I'm into petrol-powered scooters/cyclomoteurs.
+- 💬 Ask me about web development, AI tools, or my journey into tech.
 
 <hr>
 
@@ -92,7 +92,7 @@ const osman = {
 
 <div align="center">
 
-**Always learning, always building.** Let's connect if you're hiring or collaborating on web projects! <br>
+Always learning, always building. Let's connect if you're hiring or collaborating on web projects! <br>
 <img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Thinking%20Face.png?raw=true" alt="Hello Coders" width="14%"/>
 
 </div>
