@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-  <img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+  <img src="assets/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
   
   <br>
 
