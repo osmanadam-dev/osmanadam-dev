@@ -93,6 +93,6 @@ const osman = {
 <div align="center">
 
 Always learning, always building. Let's connect if you're hiring or collaborating on web projects! <br>
-<img src="https://github.com/osmanadam-dev/osmanadam-dev/blob/main/assets/Thinking%20Face.png?raw=true" alt="Hello Coders" width="14%"/>
+<img src="assets/Thinking Face.png?raw=true" alt="Hello Coders" width="14%"/>
 
 </div>
