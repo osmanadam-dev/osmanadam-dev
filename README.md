@@ -1,9 +1,3 @@
-<div align="center" width="50">
-  
-  <img src="assets/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
-  
-  <br>
-
   # Hi From Osman 
 
   ### Junior Web Developer based in Pau, France 🇫🇷 | Open to Apprenticeship / Internship / Junior Opportunities
